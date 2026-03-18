@@ -1,0 +1,4 @@
+interface:
+  display_name: "Base UI React"
+  short_description: "Base UI docs, patterns, and selection"
+  default_prompt: "Use $base-ui-react to implement or review accessible UI with @base-ui/react."
