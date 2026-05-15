@@ -46,6 +46,7 @@
 - `className` values concatenate with the rightmost value first.
 - `style` objects merge with later keys overwriting earlier ones.
 - Event handlers merge and run rightmost first.
+- In `v1.4.1+`, multi-argument event handlers are forwarded correctly through `mergeProps`; verify this behavior before relying on it in older installed versions.
 - Refs do not merge automatically; the rightmost ref wins.
 - If you use the function form, remember that its return value replaces the accumulated props unless you manually call prior handlers.
 

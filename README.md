@@ -41,7 +41,7 @@ The skill covers the main Base UI component families:
 - Overlays and popups: `Alert Dialog`, `Dialog`, `Drawer`, `Popover`, `Tooltip`, `Preview Card`, `Toast`.
 - Menus and navigation: `Menu`, `Context Menu`, `Menubar`, `Navigation Menu`, `Toolbar`.
 - Form foundations: `Button`, `Field`, `Fieldset`, `Form`, `Input`.
-- Choice and value inputs: `Autocomplete`, `Calendar`, `Checkbox`, `Checkbox Group`, `Combobox`, `Number Field`, `Radio`, `Select`, `Slider`, `Switch`.
+- Choice and value inputs: `Autocomplete`, `Checkbox`, `Checkbox Group`, `Combobox`, `Number Field`, `OTP Field`, `Radio`, `Select`, `Slider`, `Switch`.
 - Disclosure, layout, status, and display: `Accordion`, `Collapsible`, `Tabs`, `Scroll Area`, `Separator`, `Avatar`, `Meter`, `Progress`, `Toggle`, `Toggle Group`.
 - Utilities: `CSPProvider`, `DirectionProvider`, `mergeProps`, `useRender`.
 

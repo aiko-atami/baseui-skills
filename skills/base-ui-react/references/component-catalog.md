@@ -70,10 +70,10 @@
   Use for on or off settings. Prefer it over Checkbox when the control represents a setting rather than a selection list. Docs: `https://base-ui.com/react/components/switch`
 - `Number Field`
   Use for numeric entry with increment and decrement controls, parsing, validation, or scrub interactions. Docs: `https://base-ui.com/react/components/number-field`
+- `OTP Field`
+  Use preview `OTPField` for one-time passwords, verification codes, and fixed-length code entry made of individual character slots. Import `OTPFieldPreview` from `@base-ui/react/otp-field` in `v1.4.0+`; its API may change before stable. Docs: `https://base-ui.com/react/components/otp-field`
 - `Slider`
   Use for scrub, range, and percentage-like interactions driven by dragging rather than direct typing. Docs: `https://base-ui.com/react/components/slider`
-- `Calendar`
-  Use for visual date picking or month-based date navigation. Docs: `https://base-ui.com/react/components/calendar`
 
 ## Disclosure, Layout, Status, and Display
 

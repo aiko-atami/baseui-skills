@@ -41,7 +41,7 @@
 - Form foundations:
   `Button`, `Field`, `Fieldset`, `Form`, `Input`
 - Choice and value inputs:
-  `Autocomplete`, `Calendar`, `Checkbox`, `Checkbox Group`, `Combobox`, `Number Field`, `Radio`, `Select`, `Slider`, `Switch`
+  `Autocomplete`, `Checkbox`, `Checkbox Group`, `Combobox`, `Number Field`, `OTP Field`, `Radio`, `Select`, `Slider`, `Switch`
 - Status and media:
   `Avatar`, `Meter`, `Progress`, `Toggle`, `Toggle Group`
 

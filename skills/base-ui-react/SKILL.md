@@ -5,7 +5,7 @@ description: Implement, refactor, review, or explain `@base-ui/react` in React a
 
 # Base UI React
 
-Base UI `v1.3.0`, released on March 12, 2026.
+Base UI `v1.4.1`, released on April 20, 2026.
 
 ## Workflow
 
@@ -65,4 +65,4 @@ Base UI `v1.3.0`, released on March 12, 2026.
 - Do not forget `Portal` when assembling popup families.
 - Do not replace action menus with site-navigation primitives or vice versa.
 - Do not break `ref` forwarding or prop spreading when composing via `render`.
-- Do not skip version checks when using docs features introduced after `v1.0.0`, such as `Drawer`, `CSPProvider`, `Select.Label`, `Combobox.InputGroup`, or `Tooltip`'s `closeOnClick`.
+- Do not skip version checks when using docs features introduced after `v1.0.0`, such as `Drawer`, `CSPProvider`, `Select.Label`, `Combobox.InputGroup`, `Tooltip`'s `closeOnClick`, or preview `OTPField`.
